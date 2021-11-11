@@ -1,0 +1,24 @@
+.signInsignUp{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans';
+
+    .signOn{
+        display: block !important;
+        margin-left: 20px;
+    }
+
+    .signIn{
+        width: 30%;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        display: block;
+    }
+    .signUp{
+        width: 30%;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        margin-left: 10px;
+    }
+}
